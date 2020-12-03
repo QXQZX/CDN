@@ -30,5 +30,5 @@ https://cdn.jsdelivr.net/gh/user/repo@version/file
 
 
 <hr>
-涉嫌版权 在issues提供相关证据，验证后删除
 
+涉嫌版权 在issues提供相关证据，验证后删除
